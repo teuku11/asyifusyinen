@@ -1,0 +1,2 @@
+# asyifusyinen
+generatelink file js
